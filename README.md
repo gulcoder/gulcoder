@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+<span style="color:pink">Om mig</span><br><br>Hej, jag heter Gül och är en IoT- och Embedded Systems Developer student med en bakgrund inom teknisk kemi. <br><br>📚 Vad jag lär mig just nu<br>IoT och Embedded Systems: Jag utvecklar praktiska lösningar och experimenterar med plattformar som Raspberry Pi Pico W och Arduino. Just nu jobbar jag på ett IoT-baserat säkerhetssystem och lär mig mer om nätverksprotokoll och realtidsdatabehandling.<br>Agil projektledning: Jag leder projekt med agila metoder och arbetar med verktyg som Jira och Trello för att säkerställa effektiv leverans.<br>Programmering och utveckling: Jag fortsätter att förbättra mina färdigheter i programmeringsspråken C++ och Python, och söker alltid nya sätt att utvecklas inom dessa områden.<br><br>🌱 Erfarenheter och mål<br>Jag har en Master och Bachelor i teknisk kemi från Kungliga Tekniska Högskolan (KTH), där jag även varit lärare och undervisningsassistent. Under min karriär har jag fått erfarenhet av att skapa engagerande kursplaner och handleda studenter, både på gymnasie- och universitetsnivå. Jag har även arbetat med agil projektledning, vilket har gett mig värdefulla insikter om hur man hanterar projekt och samarbetar effektivt inom team.<br><br>🚀 Personliga intressen<br>När jag inte kodar eller jobbar med projekt, älskar jag att spendera min tid utomhus. Jag är en stor fan av vandring och bergsbestigning, och jag finner ofta ro i att vara i naturen. Yoga och mindfulness hjälper mig att hålla balansen mellan jobb och fritid, och naturligtvis älskar jag en god kopp kaffe när jag behöver få energi under mina kodningspass.<br><br>Jag strävar efter att ständigt utvecklas och lär mig gärna nya saker varje dag – vare sig det är en ny teknik, en intressant bok eller en inspirerande podcast. Jag är alltid öppen för nya projekt och samarbeten, så tveka inte att höra av dig!
 
-<!--
-**gulcoder/gulcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gulcoder&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gulcoder&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gulcoder&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=gulcoder&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
